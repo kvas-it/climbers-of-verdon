@@ -1,9 +1,9 @@
-# Settlers of Verdon (a.k.a. Climbers of Verdon)
+# Climbers of Verdon
 
-## Types of land
+## Types of terrain
 
-1. High mountains -- produces ropes.
-2. Big wall -- produces nuts.
+1. Mountains -- produces ropes.
+2. Big walls -- produces nuts.
 3. Cliffs -- produces bolts.
 4. Boulder field -- produces crashpads.
 5. Sea cave -- produces chalk.
